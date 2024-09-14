@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/sendEmail"
+        android:icon="@drawable/ic_baseline_verified_24"
+        android:title="Donor's Eamil" />
+    <item
+        android:id="@+id/compatible"
+        android:icon="@drawable/compatible"
+        android:title="Compatible" />
+
+
+    <item android:title="Actions">
+
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/profile"
+                    android:icon="@drawable/ic_person"
+                    android:title="Profile" />
+                <item
+                    android:id="@+id/notification"
+                    android:icon="@drawable/ic_baseline_notifications_none_24"
+                    android:title="Notification"
+                    android:visible="false" />
+
+                <item
+                    android:id="@+id/logout"
+                    android:icon="@drawable/ic_logout"
+                    android:title="Log Out" />
+
+            </group>
+
+        </menu>
+    </item>
+
+    <item android:title="Communicate">
+
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/about"
+                    android:icon="@drawable/ic_about"
+                    android:title="About" />
+                <item
+                    android:id="@+id/contactUs"
+                    android:title="Contact Us" />
+            </group>
+
+        </menu>
+    </item>
+</menu>

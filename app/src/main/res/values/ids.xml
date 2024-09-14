@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="aplus" type="id" />
+    <item name="aminus" type="id" />
+    <item name="bplus" type="id" />
+    <item name="bminus" type="id" />
+    <item name="abplus" type="id" />
+    <item name="abminus" type="id" />
+    <item name="oplus" type="id" />
+    <item name="ominus" type="id" />
+    <item name="compatible" type="id" />
+    <item name="sendEmail" type="id" />
+    <item name="notification" type="id" />
+    <item name="profile" type="id" />
+    <item name="logout" type="id" />
+    <item name="userProfileImage" type="id" />
+    <item name="userName" type="id" />
+    <item name="emailNow" type="id" />
+    <item name="userEmail" type="id" />
+    <item name="notification_name" type="id" />
+    <item name="notification_text" type="id" />
+    <item name="notification_date" type="id" />
+    <item name="notification_profile_image" type="id" />
+    <item name="toolbar" type="id" />
+</resources>

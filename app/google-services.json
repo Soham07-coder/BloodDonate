@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "326332342248",
+    "project_id": "booddonationmanagement",
+    "storage_bucket": "booddonationmanagement.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326332342248:android:84c4fec49932a3c201ce5d",
+        "android_client_info": {
+          "package_name": "com.example.booddonationmanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACCY6AKyUG0OY-Yj_k4TmBJ4SJggXdEKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326332342248:android:16d8db8f600246b201ce5d",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACCY6AKyUG0OY-Yj_k4TmBJ4SJggXdEKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
